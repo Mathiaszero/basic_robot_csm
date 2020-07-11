@@ -27,3 +27,6 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 ----------------------------------------------------------------------
+
+major changes
+https://github.com/minetest/minetest/commit/0425c6b8c888d0ccdf09a371a7415c8b3cb055a3
